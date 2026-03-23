@@ -1,1 +1,1 @@
-# sales-dashboard-project
+# data_analyst_practice_project
